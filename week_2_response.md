@@ -4,6 +4,6 @@
 
 #### Week 2 responses
 
-apples
-oranges
-bananas
+apples  
+oranges  
+bananas  
