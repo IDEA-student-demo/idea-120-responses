@@ -6,4 +6,9 @@
 
 Apples  
 Bananas  
-Oranges  
+Oranges
+
+[text](URL)  
+
+[Bulbasaur](https://www.pokemon.com/us/pokedex/bulbasaur)
+
