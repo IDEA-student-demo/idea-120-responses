@@ -10,5 +10,6 @@ Oranges
 
 [text](URL)  
 
-Do you want to know more information about [Bulbasaur](https://www.pokemon.com/us/pokedex/bulbasaur)?
+Do you want to know more information about [Bulbasaur](https://www.pokemon.com/us/pokedex/bulbasaur)?  
 
+![Bulbasaur](https://images.app.goo.gl/gY12fCiCgaoMiX5E8)
