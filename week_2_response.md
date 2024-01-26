@@ -14,4 +14,4 @@ Do you want to know more information about [Bulbasaur](https://www.pokemon.com/u
 
 ![Bulbasaur](https://breedersguidehome.files.wordpress.com/2019/04/bulbasaur.png?w=1024 "Bulbasaur in a Garden")
 
-![Bulbasaur](assets/bulbasaur.jpg)
+![Bulbasaur](assets/bulbasaur.jpg "A tiny Bulbasaur says 'hello!'")
